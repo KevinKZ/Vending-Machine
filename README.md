@@ -1,2 +1,1 @@
-# VHDL
-All my VHDL projects/assignments I've worked on
+ECE 475 Lab 6 - Vending Machine
